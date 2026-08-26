@@ -1,81 +1,97 @@
 # Matteo Frigerio
 
-**Executive Finance & Technology Leader · Senior Software & Systems Engineer**
+**Executive Finance, Transformation & Systems Leader**  
+*CFO Office · FP&A · Group Finance · Treasury · ERP/EPM · Data · Architecture*
 
-I work at the intersection of **finance, systems, data and software engineering**. My background combines CFO-level decision support, international accounting and finance transformation with hands-on work in Python backends, data architecture, APIs, automation and controlled systems design.
+I work where **financial decision-making, operating processes, enterprise systems and data** meet. My background combines executive finance and international accounting with finance transformation, ERP/EPM environments, data architecture, automation and hands-on technical delivery.
 
-This profile is designed as a practical hiring hub: a recruiter, founder, CFO, CTO or engineering lead should be able to understand **what I can own, what I have built, and where I create value** without needing access to confidential client material.
+The common thread is simple: translate complex business and finance requirements into **controlled, explainable and decision-ready operating solutions**.
 
-## What I can own
+This repository is a professional hiring hub. Client identities, confidential operating data, credentials and proprietary source code are intentionally excluded.
 
-### Finance & Executive
-- Strategic Finance / CFO Office
+## Start here
+
+| If you want to understand... | Go to |
+|---|---|
+| Role fit in under two minutes | [Hiring Brief](./HIRING.md) |
+| What supports each capability claim | [Evidence Matrix](./EVIDENCE.md) |
+| Broader finance, transformation and systems scope | [Professional Portfolio](./PORTFOLIO.md) |
+| How selected mandates were approached | [Sanitised Case Studies](./CASE_STUDIES.md) |
+| How I design finance and control systems | [Architecture & Design Approach](./ARCHITECTURE.md) |
+
+## Core professional proposition
+
+I am strongest in roles that require several layers to remain aligned at once:
+
+**Business decision → Financial logic → Process → Controls → Data → Systems → Reporting → Action**
+
+That includes situations where finance needs to define the requirement precisely, technology teams need clear domain logic and acceptance criteria, and management needs outputs that can be reconciled and explained.
+
+## Best-fit areas
+
+### Executive Finance & Performance
+- CFO-office and strategic-finance support
 - FP&A, budgeting, rolling forecasts and scenario modelling
-- Group finance, IFRS, consolidation, intercompany and reporting
+- Group finance, reporting, consolidation and intercompany
 - Treasury, liquidity, working capital and funding analysis
-- Corporate finance, valuation, DCF, NPV, IRR and WACC
-- Finance business partnering and executive decision support
-- Controls, audit readiness, risk and governance
+- Corporate finance, valuation and investment appraisal
+- Executive reporting, KPI frameworks and decision support
 
 ### Finance Transformation & Enterprise Systems
-- SAP S/4HANA FI/CO and finance-process transformation
-- Group Reporting and consolidation/planning environments
-- Oracle EPM / Hyperion, SAP BPC, SAP Analytics Cloud
-- Oracle Fusion, NetSuite, Dynamics 365 and Workday Financials
-- Requirements, process design, integrations, UAT, controls and adoption
-- Finance data architecture, reconciliation and reporting workflows
+- Finance operating-model and process transformation
+- SAP S/4HANA FI/CO and broader ERP finance environments
+- Group reporting, consolidation, planning and EPM
+- Requirements, functional design and acceptance criteria
+- Integration, master-data and reporting design
+- UAT, reconciliation, controls, adoption and remediation
 
-### Software, Data & Automation
-- Python, SQL, TypeScript and JavaScript
-- FastAPI, Pydantic, REST APIs and WebSockets
-- PostgreSQL, SQLite, SQLAlchemy and Alembic
-- Modular architecture, domain boundaries and repository patterns
-- Data modelling, ETL/ELT, APIs, lineage and validation
-- WebAuthn/FIDO2 concepts, authorization, isolation and auditability
-- Docker, Git, pytest, Vitest, React and Vite
+### Data, Automation & Systems
+- Finance data architecture, source ownership and lineage
+- SQL, data modelling, ETL/ELT and reconciliation
+- Power BI and management-information design
+- Python and workflow automation
+- APIs, PostgreSQL and systems integration
+- Authorization, auditability and controlled failure handling
 
-## Evidence, not just keywords
-
-| Capability | Public evidence |
-|---|---|
-| Systems architecture & explicit state transitions | [workflow-engine](https://github.com/mfrigerio-finance/workflow-engine) |
-| Python / FastAPI / backend design | [Sanitised Python API example](https://github.com/mfrigerio-finance/teo_frigerio_/tree/main/examples/fastapi_job_service) |
-| Finance + systems + data | [Professional portfolio](./PORTFOLIO.md) |
-| Capability-to-evidence mapping | [Evidence matrix](./EVIDENCE.md) |
-| NDA-safe project examples | [Selected case studies](./CASE_STUDIES.md) |
-| Fast hiring overview | [Hiring brief](./HIRING.md) |
-
-## Selected outcomes
+## Selected professional evidence
 
 - **40% stated reduction in manual reporting time** through Excel, Power Query and VBA automation.
-- Designed finance and reporting workflows connecting accounting, operations, ERP systems and financial/non-financial data.
-- Built financial models, scenarios, valuations, cash-flow views and KPI frameworks for capital, commercial and operational decisions.
-- Designed and implemented controlled software patterns around domain logic, persistence, authorization, validation and auditability.
+- International professional mandates since 2019 across finance, transformation, technology and cross-border execution.
+- Finance and reporting workflows connecting accounting, ERP, operational and non-financial data.
+- Financial models, forecasts, scenarios, valuations, cash-flow views and KPI frameworks supporting management decisions.
+- Finance-transformation delivery spanning requirements, process design, integration, UAT, reconciliation, controls and adoption.
+- Hands-on systems and data work supporting finance-domain requirements, automation, validation and auditability.
+
+See [EVIDENCE.md](./EVIDENCE.md) for the distinction between documented outcomes, professional scope, platform exposure and sanitised case-study evidence.
 
 ## How I work
 
-**Business-first.** Technology starts with the operating requirement, control objective and decision to be made.
+**Frame.** Start with the decision, business objective, financial meaning and control requirement.
 
-**Evidence-led.** Inputs, assumptions, transformations, exceptions and ownership should be explicit.
+**Analyse.** Make assumptions, ownership, dependencies, risks and exceptions explicit.
 
-**Control-aware.** Reconciliation, access, segregation of duties, traceability and recovery belong in the design, not in an afterthought.
+**Design.** Translate requirements into processes, data structures, controls, interfaces and acceptance criteria.
 
-**Hands-on.** I am comfortable moving from executive-level questions into models, process design, data structures, APIs, tests and implementation details.
+**Deliver.** Work across finance, operations, technology, vendors and management rather than treating each layer in isolation.
 
-## Current public repositories
+**Validate.** Reconcile outputs, test representative scenarios, expose exceptions and preserve traceability.
 
-### [workflow-engine](https://github.com/mfrigerio-finance/workflow-engine)
-A TypeScript workflow-domain project demonstrating explicit lifecycle states, controlled transitions, modular design and testable behaviour. The broader control-plane architecture is documented separately from what is currently implemented.
+**Improve.** Use defects, cycle times, root causes and operating feedback to refine the process or system.
 
-### [teo_frigerio_](https://github.com/mfrigerio-finance/teo_frigerio_)
-Temporary public portfolio repository containing sanitised engineering examples and finance/technology case-study material. Client identities, private infrastructure and proprietary source code are intentionally excluded.
+## Professional-material policy
 
-## Confidentiality
+Most client work is subject to confidentiality obligations. Public material therefore focuses on:
 
-Most professional mandates are subject to confidentiality obligations. Public material therefore uses **sanitised demonstrations, architecture patterns and de-identified case studies**. I do not publish client identities, credentials, production data, private endpoints or proprietary source code.
+- responsibilities and delivery scope;
+- methods and decision frameworks;
+- de-identified case studies;
+- architecture and control principles;
+- documented outcomes that can be stated without exposing a client.
 
-## Availability
+A technology or platform appearing in this profile should not automatically be read as a claim of sole end-to-end production ownership. Scope varies by mandate and is described conservatively.
 
-Based in **Como, Italy** · **Swiss G Permit** · International / Remote · Italian native · English C1
+## Practical details
 
-For a faster review, start with **[HIRING.md](./HIRING.md)** and **[EVIDENCE.md](./EVIDENCE.md)**.
+Based in **Como, Italy** · **Swiss G Permit** · Open to Switzerland, international and remote opportunities · Italian native · English C1
+
+For a fast review, start with **[HIRING.md](./HIRING.md)** and then **[EVIDENCE.md](./EVIDENCE.md)**.
